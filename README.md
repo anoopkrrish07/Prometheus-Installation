@@ -16,7 +16,7 @@ Prometheus's main distinguishing features as compared to other monitoring system
 * support for hierarchical and horizontal federation
 
 
-Here 3 scripts are available to create a simple Prometheus environment.
+**Here 3 scripts are available to create a simple Prometheus environment.**
 ```
 1, Prometheus-installation.sh --> It fetches and install Prometheus 2.18.1
 2, Node-exporter.sh --> node exporter 1.0.0 installation script.
